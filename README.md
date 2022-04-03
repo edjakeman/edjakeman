@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @edjakeman
+- 🌱 I’m currently learning git, terraform, ansible and GCP generally.  And I already know PowerShell :)
+- 📫 ed@edjakeman.com will get to me...
